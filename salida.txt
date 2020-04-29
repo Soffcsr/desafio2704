@@ -1,0 +1,6 @@
+OPERACIONES suma: 12, resta: 8, multiplicacion: 20, division: 5, 
+COMPUTADORA DE Sofia: 
+cpus: [{"model":"Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz","speed":2712,"times":{"user":7881078,"nice":0,"sys":6678640,"idle":27196921,"irq":650593}},{"model":"Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz","speed":2712,"times":{"user":7538265,"nice":0,"sys":5108484,"idle":29109593,"irq":59375}},{"model":"Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz","speed":2712,"times":{"user":8499609,"nice":0,"sys":6475093,"idle":26781640,"irq":60703}},{"model":"Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz","speed":2712,"times":{"user":8116531,"nice":0,"sys":6124390,"idle":27515421,"irq":46250}}], 
+SO: win32, 
+hostname: DESKTOP-UANK7JA 
+---- ARCHIVO GENERADO EL 29th April 2020, 7:58:21 pm
